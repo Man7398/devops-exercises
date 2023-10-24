@@ -2262,12 +2262,14 @@ It's used in commands to mark the end of commands options. One common example is
 
 <details>
 <summary>Wildcards are implemented on user or kernel space?</summary><br><b>
+* asterisk
 </b></details>
 
 <details>
 <summary>If I plug a new device into a Linux machine, where on the system, a new device entry/file will be created?</summary><br><b>
 
-/dev
+When you plug a new device into a Linux machine, a new device entry or file will be created in the /dev directory.
+
 </b></details>
 
 <details>
